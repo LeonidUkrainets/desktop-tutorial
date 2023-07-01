@@ -1,6 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Hello, Git!
+# Коментар починається зі знака #
+Читайте: https://docs.google.com/document/d/1xVQCgHMJ_mvWvqwXQqKZThRvEP38U_oRFyn-Bn86MHg
